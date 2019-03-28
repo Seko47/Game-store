@@ -1,0 +1,9 @@
+.btn {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+label.required:after {
+    content: " *";
+    color: red;
+}
